@@ -3,6 +3,7 @@ package gun14;
 import java.util.Scanner;
 
 public class _03_ForLoop {
+
     public static void main(String[] args) {
         /*
         Kullanicidan bir sayi girmesini isteyin ve
